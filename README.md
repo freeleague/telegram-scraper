@@ -12,7 +12,7 @@
     $ pkg install python
     $ pip install telethon
     $ pip install Telethon --upgrade telethon
-    $ git clone https://github.com/JohnMiltonHacks/telegram-scraper
+    $ git clone https://github.com/freeleague/telegram-scraper
     $ cd telegram-scraper
     $ python3 2021.2.py
            Or
